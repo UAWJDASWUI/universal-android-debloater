@@ -1,4 +1,13 @@
 [
+    {
+    "id": "com.redstone.ota.ui",
+    "list": "Oem",
+    "description": "Dropper/Spyware/Trojan in German Gigaset phones. \n",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Recommended"
+  },
   {
     "id": "com.sony.tvsideview.videoph",
     "list": "Oem",
